@@ -43,6 +43,9 @@ Files in Repository
 Langflow Workflow
 <img width="1600" height="649" alt="WhatsApp Image 2026-06-05 at 12 53 56 AM" src="https://github.com/user-attachments/assets/39f470aa-8091-4463-95f3-76f10127d450" />
 
+Architecture blueprint
+<img width="715" height="308" alt="image" src="https://github.com/user-attachments/assets/eb42c4dd-a379-4a17-806b-37ba67dc8f53" />
+
 Output Screenshots
 <img width="1600" height="734" alt="WhatsApp Image 2026-06-05 at 12 57 39 PM" src="https://github.com/user-attachments/assets/afd20673-b27e-4617-aa62-0b4364d479fa" />
 
